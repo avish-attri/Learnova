@@ -1,6 +1,6 @@
 # Learnova
 
-**Live Site:** [https://learnova-k1.vercel.app/](https://learnova-k1.vercel.app/)  
+### Live Site: [https://learnova-k1.vercel.app/](https://learnova-k1.vercel.app/)  
 ---
 
 ## Overview
@@ -31,15 +31,17 @@ It is designed to present an online learning platform that promotes accessibilit
 ---
 
 ## Screenshots
-### Homepage  
-![Homepage](./screenshots/home.png)
+### Top  
+![Homepage](./Screenshots/S1.png)
 
 ### Competitive Advantage  
-![Advantages](./screenshots/advantages.png)
+![Advantages](./Screenshots/S2.png)
 
 ### Testimonials  
-![Testimonials](./screenshots/testimonials.png)
+![Testimonials](./Screenshots/S3.png)
 
-*(Add screenshots in a `/screenshots` folder inside your project.)*
+### Footer  
+![Testimonials](./Screenshots/S4.png)
+
 
 ---
